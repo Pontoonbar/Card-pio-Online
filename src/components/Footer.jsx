@@ -42,7 +42,7 @@ const Footer = () => {
       </div>
 
       <p>© {new Date().getFullYear()} Ponto On Bar Grill</p>
-      <a href="incodet.com" class="desenvolvimento">Desenvolvido por Incodet - Criação de sites</a>
+      <a href="https://incodet.com/" class="desenvolvimento">Desenvolvido por Incodet - Criação de sites</a>
     </footer>
   );
 };
